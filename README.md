@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vivek jagani
 - 🧑‍💻 I’m interested in mobile application and full stack development
-- 🧑‍💻 I’m currently learning kotlin and android
+- 🧑‍💻 I’m currently learning JAVA and android
 - 👯‍♂️ I’m looking to collaborate on git hub
 
 <!---
